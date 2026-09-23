@@ -1,12 +1,28 @@
- #🧮 Calculadora de Gorjetas
+ ## 🧮 Calculadora de Gorjetas
 
-Uma aplicação web simples, intuitiva e responsiva desenvolvida para calcular o valor da gorjeta e dividir a conta entre várias pessoas de forma rápida e prática.
+Uma aplicação web simples, intuitiva e responsiva desenvolvida para calcular o valor da gorjeta e dividir a conta entre várias pessoas de forma rápida e prática
+
+https://gabi-oli.github.io/Calculadora/
 
 ---
 
 ## 📋 Sobre o Projeto
 
 A **Calculadora de Gorjetas** permite aos utilizadores inserirem o valor total da conta, avaliarem a qualidade do serviço prestado e indicarem o número de pessoas que irão dividir a despesa. O sistema calcula automaticamente o valor total da gorjeta por pessoa.
+
+### 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estruturação semântica da página.
+- **CSS3**: Estilização e layout responsivo (`style.css`).
+- **JavaScript**: Lógica de cálculo dinâmica e manipulação do DOM (`scripts.js`).
+
+---
+
+## 🚀 Funcionalidades
+
+- 💵 **Inclusão do Valor da Conta**: Campo para inserir o valor total.
+- ⭐ **Avaliação do Serviço**: Seleção do nível de satisfação do atendimento com diferentes percentagens de gorjeta:
+  - `30%`da conta, avaliarem a qualidade do serviço prestado e indicarem o número de pessoas que irão dividir a despesa. O sistema calcula automaticamente o valor total da gorjeta por pessoa.
 
 ### 🛠️ Tecnologias Utilizadas
 
